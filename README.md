@@ -36,5 +36,8 @@
 
 <code><img height = "25" src= "https://img.icons8.com/color/48/000000/intellij-idea.png"> </code>
 <code><img height = "25" src= "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"> </code>
+<code><img height = "24" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"> </code>
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=XcodeAndX&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XcodeAndX&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
