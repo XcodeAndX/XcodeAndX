@@ -1,12 +1,12 @@
-# Hello
+# Hey there
 
 
-##I'm Leonardo Andrés Gayón Espinel
-##System's Engineer in formation,
-
-
-
+## I'm Leonardo Andrés Gayón Espinel
+## System's Engineer in formation, frontend begginer
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gifraw=true" width="500" height="320" />
+
+
+
+<img align="right" alt="GIF" src="raw=true" width="500" height="320" />
