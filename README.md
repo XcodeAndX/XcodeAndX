@@ -12,6 +12,8 @@
 
 - My e-mail: [leonardo.andresin@gmail.com](mailto:leonardo.andresin@gmail.com).
 - Interested in security (learning ongoing)
+- interested in scala (learning ongoing)
+- learnins css
 
 </a>
 <a href="https://www.linkedin.com/in/leonardo-andres-gayon-espinel-25a58315b/">
