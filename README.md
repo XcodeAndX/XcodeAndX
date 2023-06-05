@@ -2,7 +2,7 @@
 
 
 ### I'm Leonardo Andrés Gayón Espinel
-### System's Engineer in formation, frontend beginner
+### Soft ware engineer in formation, frontend beginner
 
 
 
