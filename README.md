@@ -15,7 +15,7 @@
 - learning frontend stack
 
 </a>
-<a href="https://www.linkedin.com/in/leonardo-andres-gayon-espinel-25a58315b/">
+<a href="www.linkedin.com/in/leonardo-andres">
   <img align="left" alt="Leonardo's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/leoandres2002/">
