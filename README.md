@@ -2,7 +2,7 @@
 
 
 ### I'm Leonardo Andrés Gayón Espinel
-### Software engineer in formation, frontend beginner
+### Software engineer in formation, Middle backend developer, beginer frontend
 
 
 
@@ -12,8 +12,7 @@
 
 - My e-mail: [leonardo.andresin@gmail.com](mailto:leonardo.andresin@gmail.com).
 - Interested in security (learning ongoing)
-- interested in scala (learning ongoing)
-- learning css
+- learning frontend stack
 
 </a>
 <a href="https://www.linkedin.com/in/leonardo-andres-gayon-espinel-25a58315b/">
