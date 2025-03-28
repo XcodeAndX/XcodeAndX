@@ -16,7 +16,7 @@
 
 </a>
 <a href="www.linkedin.com/in/leonardo-andres">
-  <img align="left" alt="Leonardo's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Leonardo's LinkedIN" width="25px" src="(https://icons8.com/icon/13930/linkedin)" />
 </a>
 <a href="https://www.instagram.com/leoandres2002/">
   <img align="left" alt="Leonardo's Instagram" width="25px" src="https://raw.githubusercontent.com/XcodeAndX/XcodeAndX/94f812fe76b32e7875fd0600f221a586fa2b11b5/icons8-instagram.svg" />
